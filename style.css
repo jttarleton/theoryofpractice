@@ -111,8 +111,9 @@ strong { font-weight: 900; }
 
 body {
 	background: rgb(255,235,205);
-	font-family: "Athiti", sans-serif;              /* headings default fallback */
-	font: 19px 'MPLUS1p', bodyfont, sans-serif;     /* body copy set to MPLUS1p */
+	font-family: 'MPLUS1p', sans-serif;              /* headings default fallback */
+	/*font: 19px 'MPLUS1p', bodyfont, sans-serif;     /* body copy set to MPLUS1p */
+	font-size: 19px;
 	color: #222222;
 	line-height: 30px;
 	min-width: 20em;
