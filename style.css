@@ -16,37 +16,37 @@ This theme is uncopyrighted, free, and offered as is.
 /* Athiti (folder lowercased) */
 @font-face {
 	font-family: 'Athiti';
-	src: url('fonts/athiti/Athiti-ExtraLight.ttf') format('truetype');
+	src: url('fonts/Athiti/Athiti-ExtraLight.ttf') format('truetype');
 	font-weight: 200;
 	font-style: normal;
 }
 @font-face {
 	font-family: 'Athiti';
-	src: url('fonts/athiti/Athiti-Light.ttf') format('truetype');
+	src: url('fonts/Athiti/Athiti-Light.ttf') format('truetype');
 	font-weight: 300;
 	font-style: normal;
 }
 @font-face {
 	font-family: 'Athiti';
-	src: url('fonts/athiti/Athiti-Regular.ttf') format('truetype');
+	src: url('fonts/Athiti/Athiti-Regular.ttf') format('truetype');
 	font-weight: 400;
 	font-style: normal;
 }
 @font-face {
 	font-family: 'Athiti';
-	src: url('fonts/athiti/Athiti-Medium.ttf') format('truetype');
+	src: url('fonts/Athiti/Athiti-Medium.ttf') format('truetype');
 	font-weight: 500;
 	font-style: normal;
 }
 @font-face {
 	font-family: 'Athiti';
-	src: url('fonts/athiti/Athiti-SemiBold.ttf') format('truetype');
+	src: url('fonts/Athiti/Athiti-SemiBold.ttf') format('truetype');
 	font-weight: 600;
 	font-style: normal;
 }
 @font-face {
 	font-family: 'Athiti';
-	src: url('fonts/athiti/Athiti-Bold.ttf') format('truetype');
+	src: url('fonts/Athiti/Athiti-Bold.ttf') format('truetype');
 	font-weight: 700;
 	font-style: normal;
 }
@@ -97,7 +97,7 @@ This theme is uncopyrighted, free, and offered as is.
 
 @font-face {
 	font-family: 'Hubballi';
-	src: url('fonts/hubballi/Hubballi-Regular.ttf') format('truetype');
+	src: url('fonts/Hubballi/Hubballi-Regular.ttf') format('truetype');
 	font-weight: 400;
 	font-style: normal;
 }
